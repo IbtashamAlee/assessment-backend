@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+yarn-error.log
+.env*
+/build
+combined.log
+.history
+dist/
+data
+.DS_Store
